@@ -1,5 +1,6 @@
 {
   "name": "react-components",
+  "main": "index.js",
   "version": "0.0.1",
   "peerDependencies": {
     "react": "^0.12.0"
